@@ -5,9 +5,9 @@ Desafio técnico para os alunos da Fatec-Araras Disciplina "Desenvolvimento Web 
 Professor: Orlando Saraiva do Nascimento Jr
 
 Desafio Sprint 2 - 97% dos Testes OK
-Desenvolvido em Python 3.12 com Django 4.2.6
+Desenvolvido em Python 3.12 com Django 4.2.6 e HTML
 
-ATENÇÃO: Usar o Python 3.8 ou superior...
+ATENÇÃO: Usar o Python 3.8 ou superior... ou terá problemas na instalação por ex do DJango
 
 No ambiente Windows:
 
@@ -56,11 +56,11 @@ Atualmente, espera-se ter pelo menos 10 caracteres.
 
 + Número de Páginas: Validar a string para cadastro entre 1 e 3 caracteres e todos numéricos.
 
-+ Ano: : Validar a string para cadastro com exatos 4 caracteres e todos numéricos. 
++ Ano: Validar a string para cadastro com exatos 4 caracteres e todos numéricos. 
 
 Além disso, na sprint 1, os campos Título e editora são obrigatórios. Nesta sprint, os novos campos serão obrigatórios também.
 
 #### Ajustes nos testes
 
-O código fonte passará por atualizações para acomodar estes novos requisitos. Com isso, você deve ajudar os testes existentes e, caso julgue pertinente, criar novos testes.
+O código fonte passará por atualizações para acomodar estes novos requisitos. Com isso, você deve ajustar os testes existentes e, caso julgue pertinente, criar novos testes.
 
