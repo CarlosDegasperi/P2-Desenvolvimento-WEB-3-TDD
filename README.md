@@ -4,8 +4,9 @@ Desafio técnico para os alunos da Fatec-Araras Disciplina "Desenvolvimento Web 
 
 Professor: Orlando Saraiva do Nascimento Jr
 
-Desafio Sprint 2 - Devolvida com 97% de testes OK
-Desenvolvido em Python 3.12 com Django
+Desafio Sprint 2 - 97% dos Testes OK
+Desenvolvido em Python 3.12 com Django 4.2.6
+
 ATENÇÃO: Usar o Python 3.8 ou superior...
 
 No ambiente Windows:
