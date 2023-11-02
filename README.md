@@ -7,7 +7,7 @@ Desafio Sprint 2 - Devolvida com 97% de testes OK
 No ambiente Windows:
 
 ```console
-git clone https://github.com/orlandosaraivajr/Pratica_TDD_1.git
+git clone https://github.com/CarlosDegasperi/P2-Desenvolvimento-WEB-3-TDD.git
 cd Pratica_TDD
 python -m venv venv
 cd venv
