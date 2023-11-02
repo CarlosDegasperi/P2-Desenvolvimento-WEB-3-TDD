@@ -12,7 +12,7 @@ No ambiente Windows:
 
 ```console
 git clone https://github.com/CarlosDegasperi/P2-Desenvolvimento-WEB-3-TDD.git
-cd Pratica_TDD
+cd P2-Desenvolvimento-WEB-3-TDD
 python -m venv venv
 cd venv
 cd scripts
