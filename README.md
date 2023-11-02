@@ -1,13 +1,14 @@
 # P2-Desenvolvimento-WEB-3-Prática TDD
 
 Desafio técnico para os alunos da disciplina "Desenvolvimento Web 3" e "Qualidade e Teste de Software"
+Desafio Sprint 2 - Devolvida com 97% de testes OK
 
 No ambiente Windows:
 
 ```console
 git clone https://github.com/orlandosaraivajr/Pratica_TDD_1.git
-cd Pratica_TDD_1/
-virtualenv venv
+cd Pratica_TDD
+python -m venv venv
 cd venv
 cd scripts
 activate.bat
@@ -22,27 +23,6 @@ coverage html
 python manage.py runserver
 
 ```
-
-### Requisitos da Sprint 1
-
-O projeto apresenta um cadastro de livros. Na rota raiz (/), se apresenta dois botões, conforme imagem abaixo:
-<img src="img/rota_raiz.png">
-
-Ao acessar a rota cadastro (/cadastro), é possível cadastrar o livro, que armazena as seguintes informações:
-
-- Título
-- Editora
-
-<img src="img/rota_cadastro.png">
-
-Ao acessar a rota listar (/listar), é possível verificar os livros cadastrados:
-
-<img src="img/rota_listar.png">
-
-Todos os testes unitários estão passando, e o sistema funciona como previsto para a primeira sprint.
-
-<img src="img/testes_passando.png">
-
 ### Requisitos para a Sprint 2
 
 Aqui começa seu desafio. Você deve implementar as seguintes melhorias:
@@ -78,6 +58,3 @@ Além disso, na sprint 1, os campos Título e editora são obrigatórios. Nesta 
 
 O código fonte passará por atualizações para acomodar estes novos requisitos. Com isso, você deve ajudar os testes existentes e, caso julgue pertinente, criar novos testes.
 
-Você recebeu a sprint 1 com uma cobertura de teste acima de 90%.
-
-<img src="img/cobertura_testes.png">
